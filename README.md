@@ -24,9 +24,14 @@ Assets/: A folder containing any necessary assets, such as images or sounds, use
 
 Instructions:
 
-Launch the game by executing the main.py file.
-Read each question carefully.
-Choose the correct answer by entering the corresponding letter of your answer.
-Receive immediate feedback on your answer to find out if you got the question correct.
-Continue answering questions and progressing through the game.
-View your final score and enjoy the experience of becoming a true "Planet Connoisseur"!
+1.  Launch the game by executing the main.py file.
+
+2.  Read each question carefully.
+
+3.  Choose the correct answer by entering the corresponding letter of your answer.
+
+4.  Receive immediate feedback on your answer to find out if you got the question correct.
+
+5.  Continue answering questions and progressing through the game.
+
+6.  View your final score and enjoy the experience of becoming a true "Planet Connoisseur"!
