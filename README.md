@@ -15,15 +15,18 @@ Code Structure:
 The game's code is organized as follows:
 
 Main.py: The main Python file that contains the game logic and user interaction.
+
 Questions.py: A separate Python file that stores the questions and their corresponding answers.
+
 Utils.py: A utility file that includes helper functions for reading questions from the file and managing player scores.
+
 Assets/: A folder containing any necessary assets, such as images or sounds, used in the game.
 
 Instructions:
 
 Launch the game by executing the main.py file.
 Read each question carefully.
-Choose the correct answer by entering the corresponding option number.
-Receive immediate feedback on your answer and earn points for correct responses.
+Choose the correct answer by entering the corresponding letter of your answer.
+Receive immediate feedback on your answer to find out if you got the question correct.
 Continue answering questions and progressing through the game.
 View your final score and enjoy the experience of becoming a true "Planet Connoisseur"!
